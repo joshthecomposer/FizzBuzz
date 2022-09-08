@@ -1,5 +1,5 @@
 # FizzBuzz
-Coding Dojo had me do FizzBuzz as an exercise! 
+Coding Dojo had me do FizzBuzz as an exercise! :smiling_face_with_three_hearts:
 ### Objectives:
 * For each number that is a multiple of 3, print `"Fizz"`
 * For each number that is a multiple of 5, print `"Buzz"`
